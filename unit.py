@@ -88,7 +88,7 @@ def apply_custom_css():
 def app():
     apply_custom_css()  # Apply custom CSS
 
-    st.title("Unit Converter By Syed Ahmed Hassa")
+    st.title("Unit Converter By Syed Ahmed Hassan")
     st.subheader("Convert between different units of measurement.Creating the project of Quarter 3!")
 
     # Sidebar for selecting categories
